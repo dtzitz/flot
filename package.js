@@ -2,7 +2,7 @@ Package.describe({
   name: 'flot:flot',
   version: '0.8.3',
   summary: 'A meteor package for jQuery flot.',
-  git: 'https://github.com/dotansimha/flot.git',
+  git: "https://github.com/dotansimha/flot",
   documentation: null
 });
 
